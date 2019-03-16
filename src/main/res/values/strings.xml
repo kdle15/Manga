@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="Blog">
+        <item>BlogTruyen</item>
+        <item>NetTruyen</item>
+        <item>KissManga</item>
+    </string-array>
+    <string name="app_name">MangaReader</string>
+    <string name="chapter">chapter</string>
+    <string name="submit">Submit</string>
+</resources>
